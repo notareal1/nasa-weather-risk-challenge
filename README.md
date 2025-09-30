@@ -19,3 +19,7 @@ Nguồn Dữ liệu Gốc: NASA GES DISC ,thông qua giao thức OPeNDAP server.
 Nhược điểm:
 
 hiện tại là dự án bị giới hạn bởi các file CSV đã có và thời gian cho cuộc thi này. Việc tích hợp API sẽ là bước ngoặt biến nó thành công cụ phân tích rủi ro khí hậu linh hoạt cho mọi vị trí và trong tương lai.
+
+URL Ứng dụng Web: liên kết Streamlit Cloud công khai
+
+https://nasa-weather-risk-challenge-jv5y8qvhmrjcdtbsj5ecvl.streamlit.app/
